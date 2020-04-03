@@ -22,10 +22,10 @@ website: github.com/ShuhangGu
 website_full: https://github.com/ShuhangGu
 
 #address:
-#  street: 135 Yaguan Road
-#  postcode: 300350
-#  city: Tianjin
-#  country: China
+  street: 135 Yaguan Road
+  postcode: 300350
+  city: Tianjin
+  country: China
 
 # needed for travis-ci build
 exclude: [vendor]
