@@ -7,25 +7,26 @@ paginate: 5
 plugins: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://csqlwang.github.io/homepage/
+url: https://shuhanggu.github.io/
 author: Fábio Madeira
 
 # edit this section with your information
 # jekyller.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
 baseurl: /homepage/
-title: Homepage of Qilong Wang
-name: Qilong Wang
-email: qlwang@tju.edu.cn
-email_full: mailto:qlwang@tju.edu.cn
-website: github.com/csqlwang
-website_full: https://github.com/csqlwang
+title: Homepage of Shuhang Gu
+name: Shuhang Gu
+email: shuhanggu@gmail.com  
+email_full: mailto:shuhanggu@gmail.com  
+website: github.com/ShuhangGu
+website_full: https://github.com/ShuhangGu
 
 address:
-  street: 135 Yaguan Road
-  postcode: 300350
-  city: Tianjin
-  country: China
+  Office: ETF C115,
+  street: Sternwartstrasse 7, ETH Zentrum
+  postcode: 8092
+  city: Zurich
+  country: Switzerland
 
 # needed for travis-ci build
 exclude: [vendor]
