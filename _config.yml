@@ -30,3 +30,5 @@ address:
 
 # needed for travis-ci build
 exclude: [vendor]
+
+theme: jekyll-theme-cayman
